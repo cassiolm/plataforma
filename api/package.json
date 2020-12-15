@@ -1,0 +1,17 @@
+{
+  "name": "projeto-cursos-api",
+  "version": "1.0.0",
+  "private":"true",
+  "description": "Api de dados do projeto cursos impacta",
+  "main": "src/loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "cassiolm",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
